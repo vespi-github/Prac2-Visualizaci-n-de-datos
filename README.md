@@ -32,7 +32,7 @@ https://data.europa.eu/data/datasets/jrc-luisa-udp-emptrend-reference-2016?local
 
 3. La información es de tipo categórico y numérico. Existen valores ausentes que habrá de depurar previo a la visualización. Según que ficheros, el número de filas puede llegar hasta 372.995 observaciones.
 
-4.Desde la página de Eurostat, pueden consultarse visualizaciones sobre esos datos, que en mi opinión, son ampliamente mejorables. Mi intención es combinar los diferentes ficheros, y construir visualizaciones con mayor visibilidad en el que enfrentar diferentes variables, entorno a la evolución del desempleo en Europa.
+4. Desde la página de Eurostat, pueden consultarse visualizaciones sobre esos datos, que en mi opinión, son ampliamente mejorables. Mi intención es combinar los diferentes ficheros, y construir visualizaciones con mayor visibilidad en el que enfrentar diferentes variables, entorno a la evolución del desempleo en Europa.
 
 5. Me he decidido por estos conjuntos de datos, para preparar una visualización con la que dar respuesta a las siguiente cuestiones;
 - ¿Se discrimina de igual modo el empleo por sexo, edad o nivel educativo en todos los países de Europa?.
