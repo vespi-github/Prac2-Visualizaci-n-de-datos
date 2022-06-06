@@ -1,7 +1,7 @@
 # Prac2-Visualizaci-n-de-datos
 Repositorio documental de la práctica 2 de la asignatura Visualización de datos del master en ciencia de datos de la UOC
 
-Para la práctica de la asignatura Visualización de datos, he seleccionado como temática el empleo por sexo en Europa. La información está disponible en la web oficial de la comisión europea.
+Para la práctica de la asignatura Visualización de datos, he seleccionado como temática el empleo por sexo en Europa. La información está disponible en la web oficial de la comisión europea.  
 FUENTES:
 https://ec.europa.eu/eurostat/web/lfs/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_IFjhoVbmPFHt&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view
 
@@ -24,7 +24,7 @@ metadatos (https://ec.europa.eu/employment_social/employment_analysis/lmp/lmp_es
 
 ### UDP — Empleo total por regiones metropolitanas, 2000-2060 (JRC LUISA Escenario de referencia 2016).   
 Datos históricos (observaciones) y proyecciones (modelados) del empleo total por región metropolitana (unit:employees). Los datos regionales históricos se extrajeron de la base de datos en línea de EUROSTAT y se calcularon los datos que faltaban para completar la serie histórica. Los datos de las proyecciones se calcularon suponiendo un escenario de tendencia en el que las tasas de crecimiento del sector regional anteriores convergen linealmente con las tasas de crecimiento del sector nacional en 2035, y a partir de 2035, cada sector crece al mismo ritmo en todas las regiones de cada país. Finalmente, las proyecciones se reescalaron para respetar los totales de los países de las proyecciones de referencia de la DG ECFIN.
-https://data.europa.eu/data/datasets/jrc-luisa-udp-emptrend-reference-2016?locale=es
+https://data.europa.eu/data/datasets/jrc-luisa-udp-emptrend-reference-2016?locale=es   
 
  1. Considero es un tema de actualidad, y con grandes posibilidades para visualización. Se busca la evolución del desempleo en Europa, a lo largo de un periodo, sobre distintas variables relativas al desempleo por razón de sexo, políticas  ocupación, educación, descapacidad, edad, nivel educativo, autoempleo, etc. La serie temporal abarca desde 2009 a 2021.
 
